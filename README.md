@@ -1,6 +1,18 @@
 [![Build Status](https://app.travis-ci.com/joaomlneto/travis-ci-tutorial-java.svg?branch=master)](https://app.travis-ci.com/joaomlneto/travis-ci-tutorial-java)
 [![Code Coverage](https://codecov.io/github/joaomlneto/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/joaomlneto/travis-ci-tutorial-java)
 
+name: 朱世博
+
+id: 11911618
+
+* screen short: I tried to use Travis -ci, but it looked as if it would cost a fee.
+
+  ![image-20220510111844710](C:\Users\86158\AppData\Roaming\Typora\typora-user-images\image-20220510111844710.png)
+  
+* github actions
+
+* jobs in `google/guava` are `test`, `publish_snapshot`  and `generate_docs`.
+
 # travis-ci-tutorial-java
 Just to learn how to use travis-ci in a java project!
 
